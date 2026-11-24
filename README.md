@@ -1,1 +1,6 @@
-# terokai-angkasa-bersama-cikgu-michelle
+netlify.toml
+netlify/functions/chat.mjs
+package.json
+src/
+public/
+index.html
